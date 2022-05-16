@@ -1,0 +1,3 @@
+{
+  "plugins": ["graphql-js-client-transform"]
+}
